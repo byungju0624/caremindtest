@@ -39,7 +39,7 @@ const LoginForm = ({ history }) => {
       return;
     }
     if (auth) {
-      console.log('로그인 성공');
+      console.log(`로그인 성공${JSON.stringify(auth)}`);
       dispatch(check());
     }
   }, [auth, authError, dispatch]);

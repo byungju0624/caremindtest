@@ -34,3 +34,8 @@
 2021-03-31 19:04:04.170  WARN 61244 --- [http-nio-8080-exec-6] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
 2021-03-31 19:12:42.650  WARN 61244 --- [http-nio-8080-exec-7] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
 2021-03-31 19:12:48.180  WARN 61244 --- [http-nio-8080-exec-10] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:26:22.327  WARN 61244 --- [http-nio-8080-exec-4] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:26:53.563  WARN 61244 --- [http-nio-8080-exec-3] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:27:03.096  WARN 61244 --- [http-nio-8080-exec-6] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:27:20.254  WARN 61244 --- [http-nio-8080-exec-7] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:27:23.999  WARN 61244 --- [http-nio-8080-exec-10] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
