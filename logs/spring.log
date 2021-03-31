@@ -1,0 +1,36 @@
+2021-03-31 00:24:08.492  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m50s861ms).
+2021-03-31 01:19:03.577  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47m24s888ms).
+2021-03-31 02:14:16.359  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=44m42s730ms).
+2021-03-31 03:08:29.776  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m43s406ms).
+2021-03-31 04:02:12.008  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m42s232ms).
+2021-03-31 04:59:05.984  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m23s843ms).
+2021-03-31 05:53:19.427  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m43s427ms).
+2021-03-31 06:47:29.477  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m40s37ms).
+2021-03-31 07:41:12.800  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m43s323ms).
+2021-03-31 07:45:07.183  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m24s365ms).
+2021-03-31 09:35:42.714  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m35s93ms).
+2021-03-31 10:30:07.411  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52m54s602ms).
+2021-03-31 11:24:20.809  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m43s388ms).
+2021-03-31 12:18:34.177  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m43s354ms).
+2021-03-31 13:12:32.809  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m28s623ms).
+2021-03-31 14:06:46.094  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m43s272ms).
+2021-03-31 15:00:59.391  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53m43s284ms).
+2021-03-31 15:34:23.715  WARN 61244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m54s307ms).
+2021-03-31 15:40:21.051  WARN 61244 --- [http-nio-8080-exec-3] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 15:43:12.852  WARN 61244 --- [http-nio-8080-exec-7] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 18:47:19.940  WARN 61244 --- [http-nio-8080-exec-1] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 18:48:07.515  WARN 61244 --- [http-nio-8080-exec-3] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 18:52:32.651  WARN 61244 --- [http-nio-8080-exec-8] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 18:53:22.546  WARN 61244 --- [http-nio-8080-exec-10] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 18:55:42.665  WARN 61244 --- [http-nio-8080-exec-5] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 18:56:53.658  WARN 61244 --- [http-nio-8080-exec-8] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 18:57:01.150  WARN 61244 --- [http-nio-8080-exec-9] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 18:57:21.209  WARN 61244 --- [http-nio-8080-exec-1] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 18:57:34.443  WARN 61244 --- [http-nio-8080-exec-4] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 18:59:51.381  WARN 61244 --- [http-nio-8080-exec-6] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:00:00.965  WARN 61244 --- [http-nio-8080-exec-7] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:02:04.789  WARN 61244 --- [http-nio-8080-exec-9] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:02:46.521  WARN 61244 --- [http-nio-8080-exec-2] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:04:04.170  WARN 61244 --- [http-nio-8080-exec-6] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:12:42.650  WARN 61244 --- [http-nio-8080-exec-7] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2021-03-31 19:12:48.180  WARN 61244 --- [http-nio-8080-exec-10] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
